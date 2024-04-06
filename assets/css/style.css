@@ -1,0 +1,73 @@
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.navbar {
+  background-color: #28a745;
+}
+
+.color-options {
+  color: #FFFFFF80;
+}
+
+
+.title {
+  font-size: 1.2rem;
+  color: #212529;
+}
+
+.descript {
+  font-size: 1rem;
+  color: #707070;
+}
+
+.fa-solid {
+  color: #707070;
+}
+
+.dimensions {
+  font-size: 0.8rem;
+  color: #707070;
+}
+
+.border-top {
+  color: #707070A0;
+}
+
+.price-before {
+  color: #707070;
+  font-size: 1rem;
+}
+
+.price-now {
+  color: #28a745;
+  font-size: 1.25rem;
+  
+}
+
+.formulario {
+  background-color: #28a745;
+}
+
+.form-title {
+  font-size: 1.3rem;
+}
+
+.text-footer {
+  font-size: 1rem;
+}
+
+@media (max-width: 575.98px) {
+  .mb-text {
+    max-width: 250px;
+    white-space: normal;
+    text-align: center;
+  }
+}
